@@ -1,7 +1,7 @@
 {
   "pipeline": "mitie",
   "response_log": "logs",
-  "mitie_file": "./data/total_word_feature_extractor.dat",
   "path" : "./models",
-  "mitie_file" : "./MITIE-models/english/total_word_feature_extractor.dat"
+  "mitie_file" : "./MITIE-models/english/total_word_feature_extractor.dat",
+  "data": "./data/training.json"
 }
