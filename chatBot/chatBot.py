@@ -5,7 +5,6 @@ from .model import interpreter
 from .answers import answers
 
 @app.route('/')
-@cross_origin()
 def index():
     # get the `q` query parameter
     question = request.args.get('q')
