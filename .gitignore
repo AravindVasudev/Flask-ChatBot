@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 # MITIE models
-MITIE-models/*
+models/MITIE-models/*

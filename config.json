@@ -2,6 +2,6 @@
   "pipeline": "mitie",
   "response_log": "logs",
   "path" : "./models",
-  "mitie_file" : "./MITIE-models/english/total_word_feature_extractor.dat",
+  "mitie_file" : "./models/MITIE-models/english/total_word_feature_extractor.dat",
   "data": "./data/training.json"
 }
