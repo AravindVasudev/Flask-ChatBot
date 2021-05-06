@@ -6,7 +6,7 @@ click==6.7
 cloudpickle==0.3.1
 docutils==0.13.1
 Flask==0.12.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 future==0.16.0
 gevent==1.2.2
 greenlet==0.4.12
