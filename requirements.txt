@@ -18,7 +18,7 @@ jmespath==0.9.3
 jsonschema==2.6.0
 MarkupSafe==1.0
 mitie==0.2.0
-numpy==1.13.0
+numpy==1.21.0
 pathlib==1.0.1
 python-dateutil==2.6.0
 rasa-nlu==0.8.11
